@@ -1,8 +1,8 @@
-![alt text](5.png)
+![alt text](./5.png)
 
 # PHP Form
 
-![alt text](form.png)
+![alt text](./form.png)
 
 ## Level 1
 
